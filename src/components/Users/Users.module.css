@@ -1,0 +1,9 @@
+.selectedPage {
+    font-weight: bold;
+    padding: 3px;
+    font-size: 25px;
+}
+
+span{
+    padding: 2px;
+}

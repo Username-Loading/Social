@@ -1,0 +1,13 @@
+.header {
+    grid-area: h;
+    background-color: #2A2E33;
+}
+
+.header img {
+    width: 60px;
+}
+
+.LoginItem {
+    float: right;
+    color: aqua;
+}

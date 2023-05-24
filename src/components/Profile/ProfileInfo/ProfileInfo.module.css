@@ -1,0 +1,15 @@
+.content img {
+    height: 300px;
+    width: 500px;
+    border-radius: 0%;
+}
+
+.avatar {
+
+}
+
+.avatar img {
+    height: 200px;
+    width: 200px;
+    border-radius: 0%;
+}
